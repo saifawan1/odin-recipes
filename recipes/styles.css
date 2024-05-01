@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+}
+
+body {
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+  background-color: rgb(239, 236, 233);
+}
+body > * {
+  margin: 10px 100px;
+}
+li {
+  margin: 10px;
+}
+ul li {
+  list-style: none;
+}
+img {
+  height: 400px;
+  width: auto;
+}
